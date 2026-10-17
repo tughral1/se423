@@ -5,7 +5,7 @@ GitHub Copilot customization for SE423 Software Construction lab/exam tasks (Jav
 ## Exam-day setup (lab PC)
 
 ```powershell
-git clone https://github.com/tughral1/se423-copilot-kit.git SE423_Exam
+git clone https://github.com/tughral1/se423.git SE423_Exam
 cd SE423_Exam
 code .
 ```
