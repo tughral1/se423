@@ -1,6 +1,6 @@
 # SE423 Copilot Kit
 
-GitHub Copilot customization for SE423 Software Construction lab/exam tasks (Java, Labs 1–6: clean code, abstraction/encapsulation, SOLID, creational, structural and behavioral patterns), plus 20 Anki flashcards for midterm revision.
+GitHub Copilot customization for SE423 Software Construction lab/exam tasks (Java, Labs 1–6: clean code, abstraction/encapsulation, SOLID, creational, structural and behavioral patterns).
 
 ## Exam-day setup (lab PC)
 
@@ -34,4 +34,3 @@ If nothing loads at all: open `.github/copilot-instructions.md`, copy all of it,
 | `.github/instructions/java.instructions.md` | Rules applied to every `.java` file |
 | `.vscode/settings.json` | Turns on instruction files, prompt files and AGENTS.md |
 | `AGENTS.md` | Portable summary for any AI agent |
-| `flashcards/` | `SE423_Midterm_20_Flashcards.apkg` (import into Anki) and the Markdown answer key |
